@@ -1,0 +1,19 @@
+{
+  "name": "kessler",
+  "version": "1.0.0",
+  "description": "util and stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kessler/node-kessler.git"
+  },
+  "author": "Yaniv Kessler",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/kessler/node-kessler/issues"
+  },
+  "homepage": "https://github.com/kessler/node-kessler#readme"
+}
